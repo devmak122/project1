@@ -1,0 +1,98 @@
+.collapse_navbar_collapse {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 40px;
+        width: 62%;
+        height: 41px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+}
+
+body {
+        font-family: 'Nunito' !important;
+}
+
+.d-inline-block align-text-top {
+        width: 95px;
+        height: 32px;
+        left: 167.5px;
+        top: 28px;
+}
+
+
+.box2 {
+        Position: relative;
+        width: 100%;
+        height: auto;
+        background: rgba(237, 245, 238, 0.48);
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+        border-radius: 16px;
+}
+
+
+/* h2 {
+        position: relative;
+       height: 32px;
+        left: 378px;
+        top: 18px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 150%;
+
+        text-align: center;
+
+        color: #FFFFFF;
+
+} */
+
+/* h1 {
+        position: relative;
+        height: 40px;
+        left: 378px;
+        top: 60px;
+        font-family: 'Poppins';
+        font-style: unset;
+        font-weight: 700 !important;
+        font-size: 36px;
+        line-height: 150%;
+        color: #FFFFFF;
+}  */
+.box {
+        Position: relative;
+        width: 100%;
+        height: auto;
+        background: linear-gradient(270deg, #1EA185 0%, #44A978 52.4%, #8EB95F 100%);
+        border-radius: 20px;
+}
+
+.free {
+        /* margin-top: 12%; */
+        width: 42% !important;
+        height: 62px;
+        border-radius: 35px !important;
+}
+
+.group2_2 {
+        color: lightslategray;
+
+}
+
+.group2_3 {
+        color: lightslategray;
+}
+
+/* 
+.container ul li {
+        list-style-Type: none;
+        padding: 0 0 4px 23px;
+        background: url(../image/Bullets.png) no-repeat left center;
+       } */
+.fa {
+        color: #1EA185;
+}
+
